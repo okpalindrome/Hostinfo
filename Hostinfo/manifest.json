@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Hostinfo",
+    "version": "1.0",
+
+    "description": "Fetch domain or IP address origin details",
+    "author": "Nitin choudhary - linkedin.com/in/okpalindrome",
+
+    "permissions":["activeTab"],
+    "host_permissions": ["<all_urls>"],
+    "action": {
+        "default_title": "Fetch host details",
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    }
+}
