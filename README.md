@@ -1,5 +1,5 @@
 # Hostinfo
-Web Chrome Store link - Under review
+Web Chrome Store link - https://chrome.google.com/webstore/detail/apkppfdlohepcdihnhhpdggdkaogoblm
 
 It grabs the searched domain/IP and passes it to ip-api API to fetch the result.
 
